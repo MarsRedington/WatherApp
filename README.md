@@ -1,8 +1,8 @@
 ## Weather application
 
 ```bash
-This application shows the weather in a given city, showing sunrise and sunset, humidity, and wind parameters.
-Builds diagrams of ultraviolet radiation throughout the day and the probability of rain.
+This application shows the weather in a given city, showing sunrise and sunset,
+humidity, and wind parameters. Builds diagrams of ultraviolet radiation throughout the day and the probability of rain.
 ```
 
 ## Technologies used
